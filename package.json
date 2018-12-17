@@ -1,0 +1,22 @@
+{
+  "name": "assert-mocha-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smolak/assert-mocha-skeleton.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "test:watch": "./node_modules/mocha/bin/mocha --watch "
+  },
+  "author": "",
+  "license": "MIT"
+}
